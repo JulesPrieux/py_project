@@ -1,9 +1,10 @@
 pandas
+pandas_datareader
 tweepy
 matplotlib
 numpy
 datetime
 plotly
-
+yfinance
 
 
