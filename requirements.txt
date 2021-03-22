@@ -1,6 +1,6 @@
 pandas
 tweepy
-matplotlib.pyplot
+matplotlib
 numpy
 datetime
 plotly
