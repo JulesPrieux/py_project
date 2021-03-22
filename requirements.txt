@@ -1,12 +1,9 @@
-py -m install os
-py -m install pandas
-py -m install tweepy
-py -m install matplotlib.pyplot
-py -m install numpy
-py -m install datetime
-py -m install plotly
-py -m install plotly.express
-
+pandas
+tweepy
+matplotlib.pyplot
+numpy
+datetime
+plotly
 
 
 
